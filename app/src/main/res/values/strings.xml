@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">brandon</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_login">ActivityLogin</string>
+
+    <string name="txtpassword">Password</string>
+    <string name="txtlastName">last Name</string>
+    <string name="txtfirstName">first Name</string>
+    <string name="txtMobilenumber">Mobilenumber</string>
+    <string name="txtCreateAccount">Create Account</string>
+    <string name="txtLogin">Login</string>
+    <string name="title_activity_sign_up">ActivitySignUp</string>
+    <string name="title_activity_home">activityHome</string>
+</resources>
